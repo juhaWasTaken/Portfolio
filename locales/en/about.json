@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "home": "Home",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "workStatus": {
+        "available": "Available for work",
+        "unavailable": "Not available for work"
+    },
+    "header": {
+        "roles": {
+            "developer": "Web Developer",
+            "design": "Web Designer",
+            "design-web": "UI/UX Designer"
+        },
+        "description": "I create websites with a great user experience.",
+        "buttons": {
+            "copy": "Copy Email",
+            "copied": "Copied",
+            "contact": "Contact Me"
+        }
+    },
+    "recentWork": {
+        "title": "Recent Work",
+        "works": {
+            "work1": {
+                "role": "Freelance",
+                "date": "Dec 2023 - Current",
+                "company": "Freelancer"
+            },
+            "work2": {
+                "role": "UI/UX Designer",
+                "date": "April 2023 - Nov 2023",
+                "company": "JG Servicios Industriales"
+            },
+            "work3": {
+                "role": "Web Designer",
+                "date": "Jan 2023 - March 2023",
+                "company": "Fryam AC"
+            }
+        }
+    },
+    "workExample": {
+        "title": "Bank App Landing Page",
+        "ctaText": "See more of my work",
+        "here": "here"
+    },
+    "services": {
+        "developer": "Web Development",
+        "design": "Graphic Design",
+        "designUX": "UX/UI Design"
+    },
+    "stack": {
+        "title": "Technologies I use",
+        "text": "These are some technologies I use for my ",
+        "projects": "projects"
+    },
+    "contact": {
+        "title": "Do you have an idea for a project?",
+        "text": "Send me a message and let's talk about it.",
+        "button" :"Send Message"
+    }
+}

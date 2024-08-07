@@ -1,0 +1,30 @@
+{
+    "header": {
+        "title": "Conoce más de mi trabajo",
+        "text": "Estos son algunos de mis trabajos que he realizado como freelancer y como proyectos personales"
+    },
+    "works": {
+        "buttons": {
+            "view": "Ver página",
+            "code": "Ver código"
+        },
+        "kv-maquinados": {
+            "description": "Diseñé y desarrollé una página web para KV Maquinados, destacando servicios, trabajos y experiencia. La página es responsiva y cuenta con un diseño moderno y atractivo." 
+        },
+        "producto-admin": {
+            "description": "Desarrollé un dashboard administrativo para productos de una tienda, permitiendo agregar, editar y eliminar productos, así como llevar un registro de ventas y profits."
+        },
+        "kreatif": {
+            "description": "Diseñé y desarrollé una landing page para Kreatif Software, mostrando la empresa, sus servicios y trabajos realizados. La página es responsiva con un diseño moderno."
+        },
+        "portfolio": {
+            "description": "Desarrollé mi portafolio personal para mostrar mis habilidades, proyectos y experiencia. El portafolio es responsivo y tiene un diseño moderno y atractivo."
+        },
+        "nile": {
+            "description": "Diseñé un sitio web moderno y centrado en el usuario para Nile, una empresa ficticia de servicios de fitness, con un enfoque en la experiencia del usuario."
+        },
+        "az": {
+            "description": "Diseñé el sitio web de AZ Construcción como ejercicio para explorar el estilo minimalista y poner a prueba mis habilidades en diseño web."
+        }
+    }
+}

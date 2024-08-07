@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "projects": "Proyectos",
+        "contact": "Contacto"
+    },
+    "workStatus": {
+        "available": "Disponible para trabajar",
+        "unavailable": "No disponible para trabajar"
+    },
+    "header": {
+        "roles": {
+            "developer": "Desarrollador Web",
+            "design": "Diseñador Web",
+            "design-web": "Diseñador UI/UX"
+        },
+        "description": "Diseño páginas web con una gran experiencia para el usuario.",
+        "buttons": {
+            "copy": "Copiar Email",
+            "copied": "Copiado",
+            "contact": "Contáctame"
+        }
+    },
+    "recentWork": {
+        "title": "Trabajos Recientes",
+        "works": {
+            "work1": {
+                "role": "Freelance",
+                "date": "Dic 2023 - Presente",
+                "company": "Freelancer"
+            },
+            "work2": {
+                "role": "Diseñador UI/UX",
+                "date": "Abr 2023 - Nov 2023",
+                "company": "JG Servicios Industriales"
+            },
+            "work3": {
+                "role": "Diseñador web",
+                "date": "Ene 2023 - Mar 2023",
+                "company": "Fryam AC"
+            }
+        }
+    },
+    "workExample": {
+        "title": "Landing Page App Banco",
+        "ctaText": "Mira más de mis trabajos",
+        "here": "aquí"
+    },
+    "services": {
+        "developer": "Desarrollo Web",
+        "design": "Diseño gráfico",
+        "designUX": "Diseño UI/UX"
+    },
+    "stack": {
+        "title": "Tecnologías que manejo",
+        "text": "Estas son algunas tecnologías qué manejo para mis ",
+        "projects": "proyectos"
+    },
+    "contact": {
+        "title": "¿Tienes una idea para un proyecto?",
+        "text": "Ponte en contacto conmigo y hagamos realidad tu proyecto",
+        "button": "Mandar mensaje"
+    }
+}

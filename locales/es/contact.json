@@ -1,0 +1,36 @@
+{
+    "header": {
+        "title": "¿Te gustó mi trabajo y tienes una idea para un proyecto?",
+        "text": "Siempre estoy buscando nuevos proyectos en los que trabajar. Si tienes una idea para un proyecto, no dudes en contactarme."
+    },
+    "contactForm": {
+        "title": "Mándame un mensaje",
+        "text": "Estamos a minutos de conocernos. Empecemos a trabajar juntos y hagamos realidad tu proyecto."
+    },
+    "errors": {
+        "name" : "El nombre debe tener al menos 2 caracteres",
+        "email" : "Dirección de correo electrónico inválida",
+        "subject" : "El asunto debe tener al menos 5 caracteres",
+        "phone": "El teléfono debe tener al menos 10 caracteres",
+        "message": "El mensaje debe tener al menos 10 caracteres"
+    },
+    "form": {
+        "name": "Nombre",
+        "email": "Correo",
+        "subject": "Asunto",
+        "phone": "Teléfono",
+        "message": "Mensaje",
+        "sending": "Enviando...",
+        "submit": "Enviar Mensaje"
+    },
+    "contactCard": {
+        "badge": "Contactarme",
+        "text-1": "Creando experiencias digitales únicas. ",
+        "text-2": "¡Hablemos sobre tu próximo proyecto!",
+        "correoBtn": "Copiar correo",
+        "cvBtn": "Descargar CV",
+        "copySuccess": "¡Correo copiado!",
+        "copyError": "Error copiando el correo.",
+        "downloadSuccess": "¡CV descargado exitosamente!"
+    }
+}

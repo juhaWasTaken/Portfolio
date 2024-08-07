@@ -1,0 +1,30 @@
+{
+    "header": {
+        "title": "Projects I've worked on and I'm proud of",
+        "text": "These are some of the works I have done as a freelancer and as personal projects"
+    },
+    "works": {
+        "buttons": {
+            "view": "View project",
+            "code": "View code"
+        },
+        "kv-maquinados": {
+            "description": "I designed and developed a website for KV Maquinados, highlighting services, works and experience. The page is responsive and has a modern and attractive design." 
+        },
+        "producto-admin": {
+            "description": "I developed an administrative dashboard for products in a store, allowing to add, edit and delete products, as well as keep a record of sales and profits."
+        },
+        "kreatif": {
+            "description": "I designed and developed a landing page for Kreatif Software, showing the company, its services and works done. The page is responsive with a modern design."
+        },
+        "portfolio": {
+            "description": "I developed my personal portfolio to showcase my skills, projects and experience. The portfolio is responsive and has a modern and attractive design."
+        },
+        "nile": {
+            "description": "I designed a modern and user-centered website for Nile, a fictional fitness services company, with a focus on user experience."
+        },
+        "az": {
+            "description": "I designed the website of AZ Construcción as an exercise to explore the minimalist style and test my web design skills."
+        }
+    }
+}

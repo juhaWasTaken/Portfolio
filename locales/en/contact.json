@@ -1,0 +1,36 @@
+{
+    "header": {
+        "title": "Did you like my work and have an idea for a project?",
+        "text": "I'm always looking for new projects to work on. If you have an idea for a project, don't hesitate to contact me."
+    },
+    "contactForm": {
+        "title": "Send me a message",
+        "text": "We are minutes away from meeting. Let's start working together and make your project a reality."
+    },
+    "errors": {
+        "name" : "Name must be at least 2 characters long",
+        "email" : "Invalid email address",
+        "subject" : "Subject must be at least 5 characters long",
+        "phone": "Phone must be at least 10 characters long",
+        "message": "Message must be at least 10 characters long"
+    },
+    "form": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "phone": "Phone",
+        "message": "Message",
+        "sending": "Sending...",
+        "submit": "Send Message"
+    },
+    "contactCard": {
+        "badge": "Contact",
+        "text-1": "Creating unique digital experiences. ",
+        "text-2": "Let's talk about your next project!",
+        "correoBtn": "Copy email",
+        "cvBtn": "Download CV",
+        "copySuccess": "Email copied to clipboard!",
+        "copyError": "Failed to copy email.",
+        "downloadSuccess": "CV downloaded successfully!"
+    }
+}
