@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PORTFOLIO PROJECT
 
-## Getting Started
+![Presentacion](https://github.com/user-attachments/assets/be239bae-4724-4911-9f3a-2cc3c5cbd64a)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Introducción
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este portafolio es una recopilación de los proyectos en los que he trabajado durante los años 2023 y 2024. A través de este sitio web, muestro mi experiencia en diferentes proyectos de diseño web y desarrollo front-end.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tecnologías Utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Next.js 15**: Framework moderno para construir sitios web rápidos y dinámicos, utilizando el nuevo app router.
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **TypeScript**: Un superset de JavaScript que añade tipos estáticos para mejorar el desarrollo.
+- **HTML**: Lenguaje de marcado para estructurar el contenido web.
+- **CSS**: Para el estilo y la presentación de las páginas web.
+- **Tailwind CSS**: Un framework CSS para crear diseños personalizados de manera rápida y eficiente.
 
-## Learn More
+## Características del Portafolio
 
-To learn more about Next.js, take a look at the following resources:
+- **Trabajos Destacados**: Una sección dedicada a mostrar algunos de los proyectos más importantes en los que he trabajado.
+- **Disponibilidad**: Indicación de mi disponibilidad para nuevos proyectos.
+- **Detalles de Proyectos**: Información sobre mi experiencia y los servicios que ofrezco.
+- **Contacto**: Formulario de contacto para que los visitantes puedan ponerse en contacto conmigo fácilmente.
+- **Internacionalización**: Soporte para múltiples idiomas, permitiendo a los usuarios visualizar el contenido en su idioma preferido.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Secciones del Sitio
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Sobre Mí**: Información detallada sobre mi experiencia laboral y mi stack de desarrollo.
+- **Experiencias Laborales**: Un resumen de mis trabajos anteriores y roles desempeñados.
+- **Stack de Desarrollo**: Lista de tecnologías y herramientas que utilizo regularmente.
+- **Proyectos**: Descripción de los proyectos que he realizado, incluyendo enlaces y detalles técnicos.
+- **Contacto**: Página con un formulario para que los visitantes puedan comunicarse conmigo.
